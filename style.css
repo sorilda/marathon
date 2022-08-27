@@ -251,14 +251,14 @@
     text-align: center;
     }
 
-.reque{
+.request{
     display: grid;
     grid-template-columns: 181px 507px 590px 101px;
     gap:20px;
     background-color: #8D7370;
 }
 
-.title-reque{
+.title-request{
     font-weight: 400;
     font-size: 40px;
     line-height: 50px;
@@ -266,7 +266,7 @@
     color: #FFFFFF;
     }
 
-.form-reque {
+.form-request {
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -274,7 +274,7 @@
     opacity: 0.6;
     }
 
-.form-reque input{
+.form-request input{
     border:#533738;  
     border-bottom:  1px  solid #FFFFFF;
     background: transparent;
@@ -287,7 +287,7 @@
     color: #FFFFFF;
 }
 
-.form-reque input::placeholder{
+.form-request input::placeholder{
     color: #FFFFFF;
 }
 
