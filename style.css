@@ -2,7 +2,7 @@
     font-family: 'Montserrat';
     src: url('./fonts/Montserrat-Medium.woff2') format('woff2');
     font-weight: 500;
-    font-style: normal;
+    font-yle: normal;
     font-display: swap;
 }
 
@@ -10,7 +10,7 @@
     font-family: 'Montserrat';
     src: url('./fonts/Montserrat-Regular.woff2') format('woff2');
     font-weight: normal;
-    font-style: normal;
+    font-yle: normal;
     font-display: swap;
 }
 
@@ -24,14 +24,14 @@
 
 .header {
     width:1400px;
-    background-image:url(./photo/fon_header.jpg);
+    background-image:url(fon_header.jpg);
     height:715px;
     }
 
 .container1{
     padding-top: 36px;
     display: flex;
-    justify-content: space-between;
+    juify-content: space-between;
     align-items: center;
     padding-left:100px;
     padding-right: 115px;
@@ -42,7 +42,7 @@
     }
 
 .menu-item{
-        list-style-type: none;
+        li-yle-type: none;
         display: inline;
       }
 
@@ -182,7 +182,7 @@
     }
 
 .team-description{
-    list-style-type: none; 
+    li-yle-type: none; 
     display: flex;
     gap:38px;
     margin-left: 181px;
@@ -200,7 +200,7 @@
     }
 
 .workdescription{
-    list-style-type: none;
+    li-yle-type: none;
     text-align: center;
     display:flex;
     padding: 0;
@@ -251,14 +251,14 @@
     text-align: center;
     }
 
-.request{
+.reque{
     display: grid;
     grid-template-columns: 181px 507px 590px 101px;
     gap:20px;
     background-color: #8D7370;
 }
 
-.title-request{
+.title-reque{
     font-weight: 400;
     font-size: 40px;
     line-height: 50px;
@@ -266,7 +266,7 @@
     color: #FFFFFF;
     }
 
-.form-request {
+.form-reque {
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -274,7 +274,7 @@
     opacity: 0.6;
     }
 
-.form-request input{
+.form-reque input{
     border:#533738;  
     border-bottom:  1px  solid #FFFFFF;
     background: transparent;
@@ -287,7 +287,7 @@
     color: #FFFFFF;
 }
 
-.form-request input::placeholder{
+.form-reque input::placeholder{
     color: #FFFFFF;
 }
 
